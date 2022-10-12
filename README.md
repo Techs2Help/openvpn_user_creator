@@ -7,4 +7,4 @@ The script is able to:
 - reset users password
 - email alert for the different actions to admin
 
-__The script was created based on a Client requirements and it needs custom configuration to work__
+__The script was created based on a Client requirements and it needs custom configuration of it and of the OpenVPN service to work__
